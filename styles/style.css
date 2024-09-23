@@ -6,8 +6,6 @@
     font-family: "Quicksand", sans-serif;
     font-optical-sizing: auto;
 }
-
-
 /* grouping.................................................................................. */
 .title-hr{
     width: 60px;
@@ -53,15 +51,12 @@ a{
 .after{
     z-index: 0;
 }
-
 .title{
     font-style: normal;
     font-size: 250%;
     color: #0D21A1;
 }
-
 /* header ............................................................................. */
-
 .header{
     width: 100%;
     height: 60px;
@@ -88,14 +83,12 @@ a{
     text-align: center;
     font-size: 14px;
 }
-
 .header hr{
     width: 100%;
     height: 2px;
     border: none;
     margin: auto;
 }
-
 /* after effect............................................................................ */
 .header hr::after{
     position: absolute;
@@ -107,7 +100,6 @@ a{
     background-color: #0D21A1;
     transition: 0.5s;
 }
-
 .header ul li a:hover hr::after{
     content: "";
 
@@ -118,7 +110,6 @@ a{
     opacity: 1;
     transition: 0.5s;
 }
-
 /* after effect......... ............................................................*/
 .header ul li a:hover{
     cursor: pointer;
@@ -134,7 +125,6 @@ a{
     float: right;
     margin-right: 5% ;
 }
-
 .header ul li{
     display: inline-block;
 }
@@ -144,10 +134,7 @@ a{
     height: inherit;
     border-radius: inherit;
 }
-
 /* header end ............... .....................................................*/
-
-
 /* first section ............ .......................................................*/
 .first-sec{
     background-image: url(../images/backG.jpg);
@@ -200,7 +187,6 @@ a{
     letter-spacing: 4px;
 
 }
-
 .join-btn{
     background-color: #EEC643;
     color: #EEF0F2;
@@ -213,15 +199,12 @@ a{
 /* end of  first section .... ..................................................*/
 
 /* second sec................ ................................................*/
-
 /* groauping */
 .icon2{
     font-size: 40px;
     display: block;
     text-align: left;
 }
-
-
 /* groauping */
 .second-sec{
     padding-top: 100px;
@@ -275,7 +258,6 @@ a{
     position: absolute;
     padding: 20px 20px;
 }
-
 .second-sec .div1:hover .div1-content{
     color: #FBFBFB;
     transition: 0.5s;
@@ -296,7 +278,6 @@ a{
     color: #EEC643;
     transition: 0.5s;
 }
-
 .second-container .div1 strong{
     display: block;
     margin-top: 2px;
@@ -308,10 +289,7 @@ a{
     line-height: 20px;
     font-weight: bold;
 }
-
 /* end of the second sec..... ....................................*/
-
-
 /* third sec..... */
 .third-sec{
     width: 100%;
@@ -355,8 +333,6 @@ a{
     top: 0;
     left: 0;
 }
-
-
 .third-content{
     width: 100%;
     height: 100%;
@@ -374,7 +350,7 @@ a{
 .third-content h2{
     color: #EEC643;
     padding-bottom: 10px;
- }
+}
 .divbtn{
     margin: auto;
     margin-top: 40px;
@@ -397,15 +373,12 @@ a{
     font-family: "Quicksand", sans-serif;
     letter-spacing: 2px;
 }
-
 .third-content a i{
     line-height: 35px;
     font-size:30px;
     color: #011638;
 }
 /* end of the third sec..... */
-
-
 /* fourth sec ............... */
 .fourth-sec{
     background-color: #FBFBFB;
@@ -429,7 +402,6 @@ a{
     left: 50%;
     transform: translate(-50% , -50%);
 }
-
 .fourth-sec hr{
     display: inline-block;
     width: 60px;
@@ -441,7 +413,6 @@ a{
     margin-top: 10px;
     margin-bottom:150px ;
 }
-
 .fourth-sec .hr3{
     width: 5px;
     height: 5px;
@@ -458,7 +429,6 @@ a{
 .the-two-1{
     margin: 0 2%;
 }
-
 /* after effect .................................................................. */
 .fourth-sec .div3 .after::after{
     position: absolute;
@@ -491,7 +461,6 @@ a{
     opacity: 1;
     transition: 0.5s;
 }
-
 .fourth-content{
     width: 100%;
     height: 100%;
@@ -519,17 +488,13 @@ a{
     transition: 0.5s;
 }
 /* after effect .......................... ..........................................*/
-
 /* end of fourth sec ............... */
 
-
 /* fifth section ....................................... */
-
 .fifth-sec{
     padding-top: 150px;
     background-color: #FBFBFB;
 }
-
 .fifth-container{
     width: 80%;
     height: 80%;
@@ -546,8 +511,6 @@ a{
     color: #011638;
     position: relative;
 }
-
-
 .fifth-container-1 p {
     font-size: 25px;
     font-weight: bolder;
@@ -595,11 +558,9 @@ a{
 .fifth-hrs-1{
     background-color: #EEC643;
 }
-
 /* end of fifth section ....................................... */
 
 /* السكشن الساادسسس .......................................... */
-
 .sixth-sec{
     width: 100%;
     height: 145vh;
@@ -640,15 +601,11 @@ div{
 .sixth-content-1 div strong{
     font-size: 30px;
 }
-
 .sixth-content-1 div p{
     font-size: 20px;
     font-weight: bolder;
 }
-
 /* //////////////// */
-
-
 .sixth-container-2{
     width: 100%;
     height: 100vh;
@@ -675,7 +632,6 @@ div{
     background-color: #EEF0F2;
     
 }
-
 /* after effect .................................................................. */
 .sixth-content-2 .div6 .after::after{
     position: absolute;
@@ -698,7 +654,6 @@ div{
     transition: 0.5s;
 }
 /* after effect .......................... ..........................................*/
-
 .div6-content{
 
     color: black;
@@ -760,7 +715,6 @@ div{
 /*  نهاية السكشن الساادسسس ...................................................... */
 
 /*  نهاية السكشن السابع ...................................................... */
-
 .seventh-sec{
     width: 100%;
     height: 140vh;
@@ -783,7 +737,6 @@ div{
     height: 45vh;
     margin: auto;
 }
-
 .div-content-1{
     width: 40%;
     height: 40vh;
@@ -810,7 +763,6 @@ div{
     color: #FBFBFB;
     height: 70px;
 }
-
 .div-content-1 div  strong{
     margin-left: 20px;
     text-align: left;
@@ -821,11 +773,7 @@ div{
     margin-left: 90px;
     text-align: left;
 }
-
-
 /* ////////////////////// */
-
-
 .seventh-container-2{
     width: 100%;
     height: 100vh;
@@ -835,7 +783,6 @@ div{
     text-align: center;
     padding-top: 100px;
 }
-
 .container-7{
     width: 75%;
     height: 55%;
@@ -850,7 +797,6 @@ div{
     background-color: #EEF0F2;
     position: relative;
 }
-
 .div-7-content{
     width: 100%;
     height: 100%;
@@ -932,7 +878,6 @@ div{
 .div-7-icon-1{
     border-radius: 0 8px 0 0 ;
 }
-
 .div-7-content strong{
     display: block;
     margin-top: 80% ;
@@ -941,15 +886,9 @@ div{
     color: #EEC643;
     transition: 0.5s;
 }
-
 /*  نهاية السكشن السابع ...................................................... */
 
-
-
-
 /*   السكشن الثامن ...................................................... */
-
-
 .eighth-sec{
     width: 100%;
     height: 100vh;
@@ -957,13 +896,11 @@ div{
     text-align: center;
     padding-top: 100px;
 }
-
 .eighth-container{
     width: 80%;
     height: 78%;
     margin: auto;
 }
-
 .div-8{
     width: 30%;
     height: 100%;
@@ -1047,12 +984,9 @@ div{
     color: #EEC643;
     transition: 1s;
 }
-
-
 /* after effect .......................... ..........................................*/
 
 /*   السكشن التاسع ...................................................... */
-
 .footer{
     width: 100%;
     height: 40vh;
@@ -1136,5 +1070,3 @@ div{
     font-weight: bold;
 }
 /*  نهاية السكشن التاسع ...................................................... */
-
-
